@@ -8,3 +8,5 @@ Create a dashboard in Power BI for Claire that reflects all relevant Key Perform
 * Calls by time
 * Average speed of answer
 * Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
+![Screenshot 2023-04-06 132511](https://user-images.githubusercontent.com/91933051/230311819-24ecf4de-83fa-4907-8033-7933b0ef5a1d.png)
